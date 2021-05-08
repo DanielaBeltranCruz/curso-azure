@@ -7,6 +7,7 @@ Azure es una plataforma de informática en la nube con un conjunto de servicios 
 ### ¿Qué es la informática en la nube?
 Es la entrega de servicios informáticos a través de Internet, lo que se conoce como la nube. Estos servicios incluyen servidores, almacenamiento, bases de datos, redes, software, análisis e inteligencia. La informática en la nube ofrece una innovación más rápida, recursos flexibles y economías de escala.
 
+![Imagen. Nube informática](/nube-informtica.jpg)
 
 ### ¿Qué es la informática sin servidor?
 
