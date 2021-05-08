@@ -35,18 +35,18 @@ Puede implementar aplicaciones y datos en centros de datos regionales de todo el
 Al usar los servicios de copia de seguridad basados en la nube, la replicación de datos y la distribución geográfica, podrá implementar las aplicaciones con la seguridad de saber que los datos están protegidos en caso de que se produzca un desastre.
 
 ### Gastos :dollar: :credit_card:
-#### **Gastos de capital (CapEx)**
+#### :moneybag: **Gastos de capital (CapEx)**
 Los gastos de capital (CapEx) hacen referencia a la inversión previa de dinero en infraestructura física, que se podrá deducir a lo largo del tiempo. El costo previo de CapEx tiene un valor que disminuye con el tiempo.
-#### **Gastos operativos (OpEx)**
+#### :moneybag: **Gastos operativos (OpEx)**
 Los gastos operativos (OpEx) son dinero que se invierte en servicios o productos y se factura al instante. Este gasto se puede deducir el mismo año que se produce. No hay ningún costo previo, ya que se paga por un servicio o producto a medida que se usa.
 
 ### Modelos de servicios a la nube :globe_with_meridians:
 Existen tres diferentes modelos de servicio en la nube, IaaS, PaaS, SaaS. Estos modelos definen los direfentes niveles de responsabilidad compartida de un proveedor de nube y un inquilino de nube.
-#### **IaaS**
+#### :large_blue_circle: **IaaS**
 Infraestructura como servicio o también llamada IaaS, es un modelo de servicio en la nube es el más similar a la administración de servidores físicos; un proveedor de servicios en la nube mantendrá actualizado el hardware, pero el mantenimiento del sistema operativo y la configuración de red serán su responsabilidad como inquilino de nube. 
-#### **PaaS**
+#### :large_blue_circle: **PaaS**
 Plataforma como servicio o su acrónimo PaaS, este modelo de servicio en la nube es un entorno de hospedaje administrado. El proveedor de servicios en la nube administra las máquinas virtuales y los recursos de red, y el inquilino de nube implementa sus aplicaciones en el entorno de hospedaje administrado. 
-#### **SaaS**
+#### :large_blue_circle: **SaaS**
 Software como servicio o SaaS, es un modelo de servicio en la nube, el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones. El inquilino de nube solo necesita proporcionar sus datos a la aplicación administrada por el proveedor de servicios en la nube.
 
 En la siguiente ilustración se muestran los servicios que pueden ejecutarse en cada uno de los modelos de servicios en la nube.
@@ -62,5 +62,6 @@ Una nube privada consta de recursos informáticos que determinados usuarios de u
 #### :large_blue_diamond: **Nube híbrida**
 Una nube híbrida es un entorno informático que combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre ellas.
 
-## Recursos de Azure, 
+## Suscripciones, grupos de administración y recursos de Azure 
 
+## Zonas de disponibilidad, pares de regiones y regiones de Azure
