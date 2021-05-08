@@ -34,7 +34,7 @@ Puede implementar aplicaciones y datos en centros de datos regionales de todo el
 #### **Recuperación ante desastres**
 Al usar los servicios de copia de seguridad basados en la nube, la replicación de datos y la distribución geográfica, podrá implementar las aplicaciones con la seguridad de saber que los datos están protegidos en caso de que se produzca un desastre.
 
-### Gastos  :dollar:
+### Gastos  :dollar: :credit_card:
 #### **Gastos de capital (CapEx)**
 Los gastos de capital (CapEx) hacen referencia a la inversión previa de dinero en infraestructura física, que se podrá deducir a lo largo del tiempo. El costo previo de CapEx tiene un valor que disminuye con el tiempo.
 #### **Gastos operativos (OpEx)**
