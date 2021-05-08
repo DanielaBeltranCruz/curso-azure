@@ -13,7 +13,7 @@ La informática sin servidor permite que los desarrolladores creen aplicaciones 
 El término "sin servidor" procede del hecho de que las tareas asociadas a la administración y el aprovisionamiento de la infraestructura son invisibles para el desarrollador. Este enfoque permite a los desarrolladores centrar su atención en la lógica de negocios y ofrecer más valor al núcleo de la empresa. La informática sin servidor ayuda a los equipos a aumentar su productividad y a llevar los productos al mercado con más rapidez, y permite a las organizaciones optimizar mejor los recursos y seguir centrándose en la innovación.
 
 ## Conceptos fundamentales de Azure
-### Ventajas de la informática en la nube
+### Ventajas de la informática en la nube :white_check_mark:
 #### **Alta disponibilidad**
 En función del contrato de nivel de servicio (SLA) que elija, las aplicaciones basadas en la nube pueden proporcionar una experiencia de usuario continua sin tiempo de inactividad perceptible, aunque se produzcan errores.
 
