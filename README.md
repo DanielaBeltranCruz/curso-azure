@@ -1,5 +1,4 @@
 # CONCEPTOS DEL CURSO AZURE
-En este espacio se abordaran los conceptos básicos necesarios para el curso de Azure.
 
 ## Introducción a los aspectos básicos de Azure
 Azure es una plataforma de informática en la nube con un conjunto de servicios que se amplía continuamente para ayudarle a crear soluciones que satisfagan los objetivos empresariales. Los servicios de Azure van desde servicios web sencillos para hospedar la presencia empresarial en la nube hasta la ejecución de equipos totalmente virtualizados para ejecutar soluciones de software personalizadas. Azure proporciona una gran cantidad de servicios basados en la nube, como el almacenamiento remoto, el hospedaje de bases de datos y la administración centralizada de cuentas. También ofrece nuevas funcionalidades, como inteligencia artificial e Internet de las cosas (IoT).
@@ -41,6 +40,14 @@ Los gastos de capital (CapEx) hacen referencia a la inversión previa de dinero 
 Los gastos operativos (OpEx) son dinero que se invierte en servicios o productos y se factura al instante. Este gasto se puede deducir el mismo año que se produce. No hay ningún costo previo, ya que se paga por un servicio o producto a medida que se usa.
 
 ### Modelos de servicios a la nube
-Existen tres diferentes modelos de servicio en la nube. Estos modelos definen los direfentes niveles de responsabilidad compartida de un proveedor de nube y un inquilino de nube.
+Existen tres diferentes modelos de servicio en la nube, IaaS, PaaS, SaaS. Estos modelos definen los direfentes niveles de responsabilidad compartida de un proveedor de nube y un inquilino de nube.
+#### **IaaS**
+Infraestructura como servicio o también llamada IaaS, es un modelo de servicio en la nube es el más similar a la administración de servidores físicos; un proveedor de servicios en la nube mantendrá actualizado el hardware, pero el mantenimiento del sistema operativo y la configuración de red serán su responsabilidad como inquilino de nube. 
+#### **PaaS**
+Plataforma como servicio o su acrónimo PaaS, este modelo de servicio en la nube es un entorno de hospedaje administrado. El proveedor de servicios en la nube administra las máquinas virtuales y los recursos de red, y el inquilino de nube implementa sus aplicaciones en el entorno de hospedaje administrado. 
+#### **SaaS**
+Software como servicio o SaaS, es un modelo de servicio en la nube, el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones. El inquilino de nube solo necesita proporcionar sus datos a la aplicación administrada por el proveedor de servicios en la nube.
+
+En la siguiente ilustración se muestran los servicios que pueden ejecutarse en cada uno de los modelos de servicios en la nube.
 
 ![Imagen. IaaS, PaaS, SaaS](iaas-paas-saas-expanded.png)
