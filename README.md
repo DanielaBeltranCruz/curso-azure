@@ -1,9 +1,9 @@
-# CONCEPTOS DEL CURSO AZURE  :cloud:
+# CONCEPTOS DEL CURSO AZURE   :notebook:
 
 ## Introducción a los aspectos básicos de Azure
 Azure es una plataforma de informática en la nube con un conjunto de servicios que se amplía continuamente para ayudarle a crear soluciones que satisfagan los objetivos empresariales. Los servicios de Azure van desde servicios web sencillos para hospedar la presencia empresarial en la nube hasta la ejecución de equipos totalmente virtualizados para ejecutar soluciones de software personalizadas. Azure proporciona una gran cantidad de servicios basados en la nube, como el almacenamiento remoto, el hospedaje de bases de datos y la administración centralizada de cuentas. También ofrece nuevas funcionalidades, como inteligencia artificial e Internet de las cosas (IoT).
 
-### ¿Qué es la informática en la nube?
+### ¿Qué es la informática en la nube? 
 Es la entrega de servicios informáticos a través de Internet, lo que se conoce como la nube. Estos servicios incluyen servidores, almacenamiento, bases de datos, redes, software, análisis e inteligencia. La informática en la nube ofrece una innovación más rápida, recursos flexibles y economías de escala.
 
 ![Imagen. Nube informática](/nube-informtica.jpg)
@@ -53,7 +53,7 @@ En la siguiente ilustración se muestran los servicios que pueden ejecutarse en 
 
 ![Imagen. IaaS, PaaS, SaaS](iaas-paas-saas-expanded.png)
 
-### Tipos de informática en la nube
+### Tipos de informática en la nube :cloud:
 Hay tres modelos de implementación para la informática en la nube: nube pública, nube privada y nube híbrida. Cada modelo de implementación tiene distintos aspectos que debe tener en cuenta a la hora de migrar a la nube.
 #### **Nube pública**
 Los servicios se ofrecen a través de la red Internet pública y están disponibles para cualquiera que quiera comprarlos. Los recursos de nube, como los servidores y el almacenamiento, son propiedad de un proveedor de servicios en la nube de terceros, que los explota y los distribuye a través de Internet.
