@@ -40,7 +40,7 @@ Los gastos de capital (CapEx) hacen referencia a la inversión previa de dinero 
 #### **Gastos operativos (OpEx)**
 Los gastos operativos (OpEx) son dinero que se invierte en servicios o productos y se factura al instante. Este gasto se puede deducir el mismo año que se produce. No hay ningún costo previo, ya que se paga por un servicio o producto a medida que se usa.
 
-### Modelos de servicios a la nube
+### Modelos de servicios a la nube :globe_with_meridians:
 Existen tres diferentes modelos de servicio en la nube, IaaS, PaaS, SaaS. Estos modelos definen los direfentes niveles de responsabilidad compartida de un proveedor de nube y un inquilino de nube.
 #### **IaaS**
 Infraestructura como servicio o también llamada IaaS, es un modelo de servicio en la nube es el más similar a la administración de servidores físicos; un proveedor de servicios en la nube mantendrá actualizado el hardware, pero el mantenimiento del sistema operativo y la configuración de red serán su responsabilidad como inquilino de nube. 
