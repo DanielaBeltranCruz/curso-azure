@@ -8,7 +8,7 @@ Es la entrega de servicios informáticos a través de Internet, lo que se conoce
 
 ![Imagen. Nube informática](/nube-informtica.jpg)
 
-### ¿Qué es la informática sin servidor? 
+### ¿Qué es la informática sin servidor? :computer:
 La informática sin servidor permite que los desarrolladores creen aplicaciones más rápidamente, ya que elimina la necesidad de administrar la infraestructura.
 El término "sin servidor" procede del hecho de que las tareas asociadas a la administración y el aprovisionamiento de la infraestructura son invisibles para el desarrollador. Este enfoque permite a los desarrolladores centrar su atención en la lógica de negocios y ofrecer más valor al núcleo de la empresa. La informática sin servidor ayuda a los equipos a aumentar su productividad y a llevar los productos al mercado con más rapidez, y permite a las organizaciones optimizar mejor los recursos y seguir centrándose en la innovación.
 
@@ -55,11 +55,12 @@ En la siguiente ilustración se muestran los servicios que pueden ejecutarse en 
 
 ### Tipos de informática en la nube :cloud:
 Hay tres modelos de implementación para la informática en la nube: nube pública, nube privada y nube híbrida. Cada modelo de implementación tiene distintos aspectos que debe tener en cuenta a la hora de migrar a la nube.
-#### **Nube pública**
+#### :large_blue_diamond: **Nube pública**
 Los servicios se ofrecen a través de la red Internet pública y están disponibles para cualquiera que quiera comprarlos. Los recursos de nube, como los servidores y el almacenamiento, son propiedad de un proveedor de servicios en la nube de terceros, que los explota y los distribuye a través de Internet.
-#### **Nube privada**
+#### :large_blue_diamond: **Nube privada**
 Una nube privada consta de recursos informáticos que determinados usuarios de una empresa u organización usan en exclusiva. Una nube privada puede estar ubicada físicamente en el centro de datos local (entorno local) de la organización o estar hospedada por un proveedor de servicios de terceros.
-#### **Nube híbrida**
+#### :large_blue_diamond: **Nube híbrida**
 Una nube híbrida es un entorno informático que combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre ellas.
 
+## Recursos de Azure, 
 
